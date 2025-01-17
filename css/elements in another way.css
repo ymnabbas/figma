@@ -1,0 +1,279 @@
+
+.container3{
+    display: flex;
+    position: absolute;
+    width: 360px;
+    height: 1020px;
+    top:50px;
+    max-width: 100%;
+    gap: 3rem;
+    align-items: center;
+    gap:20px;
+}
+.cont3{
+
+    /* Items */
+width: 285px;
+height: 2000px;
+background: #FFFFFF;
+}
+
+.container3 .logooo {
+    position: absolute;
+    /* justify-content: space-around; */
+    width: 32px;
+    height: 32px;
+    left: 16px;
+    top: 1000px;
+}
+.container3 .text3{ 
+    
+    position: absolute;
+    width: 45px;
+    height: 19px;
+    left: 70px;
+    top: 1028px;
+    font-family: 'Lucida Bright';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    color: #453A3C;
+
+}
+
+.cont33{
+    /* Group 138 */
+position: absolute;
+width: 25px;
+height: 25px;
+left: 162px;
+top: 1000px;
+}
+
+.cont33 .logooo2{
+position: absolute;
+width: 10px;
+height: 10px;
+left: 130px;
+top: 2px;
+background: #AB3333;
+border-radius: 50%;
+}
+
+
+.container3 .logooo1 {
+    padding-left: 100px;
+    width: 32px;
+    height: 32px;
+    top: 2px;
+    left: 11px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+/* .container3 .iconn33 { */
+ /* Group 138
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 257px;
+top: 6px;
+} */
+.container3 .iconn33 .logooo11 {
+ /* Group 226 */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 760px;
+top: -36px;
+
+
+}
+.imgs13{
+/* Group 201 */
+
+position: absolute;
+width: 70px;
+height: 16px;
+left: 468px;
+top: 55px;
+}
+.imgss13{
+/* Frame 117 */
+box-sizing: border-box;
+position: absolute;
+left: 185.5%;
+right: 5.83%;
+top: 4.5%;
+bottom: 81.62%;
+background: #FFFFFF;
+
+
+}
+.search13{
+/* Frame 116 */
+box-sizing: border-box;
+position: absolute;
+left: 130.28%;
+right: 5.83%;
+top: 9.5%;
+bottom: 75.33%;
+background: #FFFFFF;
+border-radius: 8px;
+}
+.search23{
+/* Group 187 */
+position: absolute;
+width: 320px;
+height: 35px;
+left: 465px;
+top: 150px;
+}
+.f113{
+/* Group 198 */
+position: absolute;
+width: 173px;
+height: 204px;
+left: 468px;
+top: 210px;
+
+}
+.f213{
+    /* Group 198 */
+position: absolute;
+width: 173px;
+height: 204px;
+left: 187px;
+top:1275px;
+}
+.f313{
+    /* Group 199 */
+position: absolute;
+width: 153px;
+height: 202px;
+left: 20px;
+top: 1498px;
+}
+.f413{
+    /* Group 200 */
+
+position: absolute;
+width: 153px;
+height: 204px;
+left: 187px;
+top: 1498px;
+
+
+}
+***************************
+.menu2{
+    /* Menu */
+    
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 32%;
+    top: 2px;
+    background-color: white;
+    background: url(.png);
+    
+    }
+    .text2{
+    /* Dashboard */
+    
+    position: absolute;
+    width: 45px;
+    height: 19px;
+    left: 36.5%;
+    top: 9px;
+    font-family: 'Lucida Bright';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    color: #453A3C;
+    background-color: white;
+    
+    
+    }
+    .alert2{
+    /* Group 138 */
+    
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 50%;
+    top: 6px;
+    background-color: white;
+    }
+    .photo2{
+    /* Group 226 */
+    
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 52.5%;
+    top: 5px;
+    background-color: white;
+    
+    
+    }
+    *************************
+    .menu1{
+        /* Menu */
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 11px;
+    top: 2px;
+    background: url(menu1.png);
+    
+    }
+    .text1{
+        /* Dashboard */
+    
+    position: absolute;
+    width: 45px;
+    height: 19px;
+    left: 70px;
+    top: 9px;
+    font-family: 'Lucida Bright';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    color: #453A3C;
+    }
+    .alert1{
+        /* Group 138 */
+    
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 257px;
+    top: 6px;
+    }
+    .photo1{
+        /* Group 226 */
+    
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 293px;
+    top: 5px;
+    }
